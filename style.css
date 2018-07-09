@@ -5,6 +5,7 @@ th, td {
 h1, h2, h3 {
     color: brown;
     font-size: 2.1em;
+    font-weight: bold;
 }
 
 ul li, a {
