@@ -3,19 +3,22 @@
 h1, h2, h3 {
     font-size: 2.1em;
     font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #33313c
 }
 
 ul li, a {
-    font-family: cursive;
+    font-family: 'Bitter', serif;
     font-size: 1em;
 }
 
 body {
     opacity: 80;
+
 }
 
 a {
-    color: #fdb35c
+    color: #ec781f
 }
 
 .grey {
@@ -39,9 +42,10 @@ a {
         margin-right: auto;
         width: 50%;
         border-width: 1px;
-        border-style: dotted;
+        border-style: solid;
         border-color: #3e6721;
         padding: 10px 40px 40px 40px;
+        background-color: aliceblue;
 
 
     }
