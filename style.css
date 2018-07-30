@@ -14,7 +14,9 @@ ul li, a {
 
 body {
     opacity: 80;
-
+    clear: left;
+    position: relative;
+    display: inline-block;
 }
 
 a {
@@ -46,6 +48,5 @@ a {
         border-color: #3e6721;
         padding: 10px 40px 40px 40px;
         background-color: aliceblue;
-
-
     }
+    
